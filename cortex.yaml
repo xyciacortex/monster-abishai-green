@@ -1,0 +1,14 @@
+openapi: 3.0.1
+info:
+  title: monster-abishai-green
+  x-cortex-tag: monster-abishai-green
+x-cortex-custom-data:
+  alignment: lawful-evil
+  challenge_rating: 8
+  legendary: true
+  source: dnd-5e
+  type: fiend
+x-cortex-owners:
+- email: bestiary@dnd.com
+x-cortex-tag: monster-abishai-green
+x-cortex-type: monster
